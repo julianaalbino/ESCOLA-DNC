@@ -45,11 +45,3 @@ Este repositório contém uma série de desafios práticos que vão ajudá-lo a 
 - **Descrição:** Neste desafio, você usará técnicas de clusterização, como K-means e DBSCAN, para segmentar dados em grupos distintos, identificando padrões e características comuns.
 
 ---
-
-## Como Contribuir
-
-Se você tiver sugestões de melhorias ou quiser contribuir com novos desafios, fique à vontade para abrir uma **issue** ou enviar um **pull request**.
-
----
-
-Esses desafios são projetados para ajudar você a construir uma base sólida na análise de dados, com foco em problemas reais e ferramentas mais utilizadas no mercado.
